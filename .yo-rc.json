@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "3.6.1",
+    "baseName": "myApp",
+    "packageName": "com.accenture.myapp",
+    "packageFolder": "com/accenture/myapp",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "rememberMeKey": "40ccf917b2cadbdb523e372650dbabf2effeb4ed",
+    "useSass": false,
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
