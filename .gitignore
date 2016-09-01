@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+>>>>>>> 5ee6965f9588906a731d038a277dc24532ae297b
 ######################
 # Project Specific
 ######################
